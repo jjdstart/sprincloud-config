@@ -1,2 +1,2 @@
-server:
-  prot: 1234
+config:
+  info: dev version 1
